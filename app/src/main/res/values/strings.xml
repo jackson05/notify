@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">notify</string>
+    <string name="hello_word">Hello world</string>
+    <string name="submit_btn">Submit</string>
+    <string name="your_name_label">Name</string>
+    <string name="hint_name_input">Your name</string>
+</resources>
